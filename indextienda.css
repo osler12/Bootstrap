@@ -1,0 +1,41 @@
+main {
+	background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 53%);
+}
+
+
+
+nav {
+background: rgb(148,187,233);#f0f0f0;
+background: linear-gradient(90deg, rgba(148,187,233,1) 0%, rgba(148,187,233,1) 36%, rgba(238,174,202,1) 71%);
+	}
+
+
+	.mi-section {
+    background-color: #f0f0f0;
+}
+
+
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.ss{
+border:2px solid black;
+padding:60px ;
+
+
+}
+
+.bg-image{
+	margin-bottom: -2%;
+
+}
+
+.dd{
+	color: #ff0000;
+}
+
